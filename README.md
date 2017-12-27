@@ -292,13 +292,13 @@ send_to_yaml(yaml_filename, dict_list)
 ```
 
 ## Results:
-Detecting items in pick list 1: All items were correctly detected and recognized (100%).
+Detecting items in pick list 1: All items were correctly detected and recognized (100%). Pick-up instructions were generated and stored in output_1.yaml
 ![screen shot 2017-12-17 at 11 01 43 pm](https://user-images.githubusercontent.com/7349926/34089497-77909f26-e37e-11e7-9611-5722e061d5e3.png)
 
-Detecting items in pick list 2: All items were correctly detected and recognized (100%).
+Detecting items in pick list 2: All items were correctly detected and recognized (100%). Pick-up instructions were generated and stored in output_2.yaml
 ![screen shot 2017-12-17 at 9 49 12 pm](https://user-images.githubusercontent.com/7349926/34089227-acc69d46-e37c-11e7-8ef5-5b165fcb359f.png)
 
-Detecting items in pick list 3: All items were correctly detected and recognized (100%).
+Detecting items in pick list 3: All items were correctly detected and recognized (100%). Pick-up instructions were generated and stored in output_3.yaml
 ![screen shot 2017-12-17 at 9 53 52 pm](https://user-images.githubusercontent.com/7349926/34089238-b8dc12e6-e37c-11e7-991b-aa8039dce9d9.png)
 
 ## Enclosed files:
