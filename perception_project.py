@@ -155,6 +155,7 @@ def pcl_callback(pcl_msg):
 
 # function to load parameters and request PickPlace service
 def pr2_mover(object_list):
+    # The following code to generate output yaml files is based on discussion in slack udacity_perception channel by "reno" and "tokyo_adam"
     # TODO: Initialize variables
     test_scene_num = Int32()
     object_name = String()
