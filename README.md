@@ -236,6 +236,9 @@ detected_objects_pub.publish(detected_objects)
 ## Calculate centroid:
 
 The program loops over the object list and calculates centroids of detected clusters.
+
+The following code to centroid was obtained from discussion in slack udacity_perception channel from "reno" and "tokyo_adam"
+
 Code:
 ```python
 # TODO: Initialize variables
